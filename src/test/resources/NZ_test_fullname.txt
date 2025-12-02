@@ -1,0 +1,5 @@
+John Smith,true
+Анна Петрівна,true
+12345,false
+Галина_Іванова,false
+,false
