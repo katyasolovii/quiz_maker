@@ -177,10 +177,10 @@ public class StudentMode {
         String filePath;
         List<String[]> quiz;
         if (source == 1) {
-            filePath = "/Users/katyasolovii/Desktop/QuizApp/src/main/resources/questions.csv";
+            filePath = ""/Users/katyasolovii/Desktop/quiz_maker/src/main/resources/questions.json"";
             quiz = QuizGenerator.generateQuizCSV(filePath, 10);
         } else {
-            filePath = "/Users/katyasolovii/Desktop/QuizApp/src/main/resources/questions.json";
+            filePath = "/Users/katyasolovii/Desktop/quiz_maker/src/main/resources/questions.json";
             quiz = QuizGenerator.generateQuizJSON(filePath, 10);
         }
 
