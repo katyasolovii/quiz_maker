@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"scr","l":"AdminMode"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"scr","l":"EmailSender"},{"p":"scr","l":"Main"},{"p":"scr","l":"QuizGenerator"},{"p":"scr","l":"StudentMode"}];updateSearchResults();
