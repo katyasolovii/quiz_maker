@@ -29,10 +29,10 @@ public class AdminMode {
     public AdminMode() {}
 
     /** Шлях до CSV файлу з питаннями */
-    private static String CSV_FILE= "/Users/katyasolovii/Desktop/QuizApp/src/main/resources/questions.csv";
+    private static String CSV_FILE= "/Users/katyasolovii/Desktop/quiz_maker/src/main/resources/questions.csv";
 
     /** Шлях до JSON файлу з питаннями */
-    private static String JSON_FILE = "/Users/katyasolovii/Desktop/QuizApp/src/main/resources/questions.json";
+    private static String JSON_FILE = "/Users/katyasolovii/Desktop/quiz_maker/src/main/resources/questions.json";
 
     /**
      * Основний метод режиму адміністратора.
