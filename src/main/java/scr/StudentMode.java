@@ -56,9 +56,8 @@ public class StudentMode {
         email = email.trim();
         if (email.isEmpty()) return false;
 
-        // Перевірка на наявність "@" і закінчення на "gmail.com"
+        // Перевірка на наявність "@"
         if (!email.contains("@")) return false;
-        if (!email.toLowerCase().endsWith("gmail.com")) return false;
 
         // Переконаємось, що є хоча б один символ перед "@"
         String localPart = email.substring(0, email.indexOf("@"));
