@@ -1,0 +1,5 @@
+test@gmail.com,true
+user.name@gmail.com,true
+invalidemail,false
+user@mail,false
+,@example.com,true

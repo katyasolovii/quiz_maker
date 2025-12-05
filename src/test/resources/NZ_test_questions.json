@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Capital of France?",
+        "options": ["Paris", "Lyon", "Marseille", "Nice"],
+        "answer": 1
+    },
+    {
+        "text": "5+7?",
+        "options": ["10", "11", "12", "13"],
+        "answer": 3
+    }
+]
